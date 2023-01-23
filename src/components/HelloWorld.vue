@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Thanks for vue-in my site!
+      Thanks for vue-ing my site!
     </h3>
   </div>
 </template>

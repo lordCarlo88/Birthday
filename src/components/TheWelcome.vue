@@ -18,7 +18,11 @@ function showDate (){
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>Today's Date is {{showDate()}}</template>
-    <template #today></template>
+    <template #heading>Today's Date is {{showDate()}}
+    <div>
+      If you can read this, then Carlo's Kubernetes deployment was a success!
+    </div>
+    </template>
+    
   </WelcomeItem>
 </template>
