@@ -70,3 +70,6 @@ https://thanhtungvo.medium.com/deploy-vue-js-application-use-docker-kubernet-on-
 
 vue nginx config for k8 deployment
 https://cli.vuejs.org/guide/deployment.html#bitbucket-cloud
+
+vue resume template
+https://evryn.github.io/vue-modern-resume/
