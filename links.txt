@@ -1,0 +1,72 @@
+install docker CLI
+	docker CLI command reference
+	https://docs.docker.com/engine/reference/run/
+
+install docker desktop
+
+my docker hub
+https://hub.docker.com/repository/docker/lordcarlo88/birthday/general
+
+Install Kubectl 
+https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+
+do minikube setup
+https://minikube.sigs.k8s.io/docs/start/
+
+	- set docker as minikube driver 
+	https://minikube.sigs.k8s.io/docs/drivers/docker/
+	
+helm setup
+https://helm.sh/docs/intro/quickstart/
+
+deploy to k8s using helm 
+https://wkrzywiec.medium.com/how-to-deploy-application-on-kubernetes-with-helm-39f545ad33b8
+
+Kubernetes deployment tutorial
+https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/
+
+
+
+
+
+install aws cli
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+Configuring the AWS CLI
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+https://aws.amazon.com/premiumsupport/knowledge-center/authenticate-mfa-cli/
+
+
+Getting IAM role credentials for CLI access
+https://docs.aws.amazon.com/singlesignon/latest/userguide/howtogetcredentials.html
+
+Using temporary credentials in Amazon EC2 instances
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html
+
+install eksctl
+https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html
+
+
+
+create aws EKS
+https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html
+https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelastickubernetesservice.html
+
+eks pricing 
+https://aws.amazon.com/eks/pricing/
+
+	example
+	https://thanhtungvo.medium.com/create-eks-on-aws-with-ui-694445faf14f
+	
+AWS configuration and credential file settings
+https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
+
+aws eks troubleshooting
+https://aws.amazon.com/premiumsupport/knowledge-center/eks-cluster-connection/
+
+
+Vue application deployment (docker, k8, aws) example
+https://thanhtungvo.medium.com/deploy-vue-js-application-use-docker-kubernet-on-aws-eks-3b1b38fcbef3
+
+vue nginx config for k8 deployment
+https://cli.vuejs.org/guide/deployment.html#bitbucket-cloud
